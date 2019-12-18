@@ -10,6 +10,8 @@ jupiterlab = "*"
 jupyterlab = "*"
 pandas = "*"
 numpy = "*"
+matplotlib = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
